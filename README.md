@@ -4,13 +4,13 @@ A responsive and visually appealing Recipe Website built using pure **HTML** and
 
 **Inspiration:** This project is inspired by **Love Babbar's** (CodeHelp) Web Development series.
 
-🔗 **[Live Demo / Preview Link Here]** *(e.g., https://your-username.github.io/recipe-website)*
+🔗 **https://anshumansahu-stack.github.io/Recipe-Website/**
 
 ## 📸 Screenshots
 
 <!-- Upload an image of your website to your repo and link it here -->
 ![Website Screenshot](./images/screenshot.png)
-*(Note: Replace the path above with your actual screenshot path)*
+![Website Screenshot](./images/mobile_screenshot.png)
 
 ## 🌟 Features
 
@@ -41,13 +41,9 @@ If you want to view this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/recipe-website.git
+    git clone https://github.com/anshumansahu-stack/Recipe-Website.git
     ```
-2.  **Navigate to the project folder:**
-    ```bash
-    cd recipe-website
-    ```
-3.  **Open the file:**
+2.  **Open the file:**
     -   Locate `index.html` in the folder.
     -   Double-click it to open it in your default web browser.
 
