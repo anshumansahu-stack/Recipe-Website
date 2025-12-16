@@ -1,4 +1,4 @@
-# 🍲 Delicious Bites - Recipe Website
+# 🍲 Anshuman da Dhabba - Recipe Website
 
 A responsive and visually appealing Recipe Website built using pure **HTML** and **CSS**. This project was created to practice frontend development fundamentals, focusing on layout, positioning, and semantic HTML.
 
